@@ -1,0 +1,10 @@
+2025-01-19 12:37:48 - INFO - ====== WebDriver manager ======
+2025-01-19 12:37:49 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 12:37:49 - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 12:37:50 - INFO - Driver [C:\Users\Lenovo ideapad 330S\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-19 12:38:29 - INFO - Login page opened.
+2025-01-19 12:38:29 - INFO - Entered email.
+2025-01-19 12:38:29 - INFO - Entered password.
+2025-01-19 12:38:29 - INFO - Clicked login button.
+2025-01-19 12:38:29 - INFO - Entered dashboard.
+2025-01-19 12:38:29 - INFO - Dashboard content successfully saved.
